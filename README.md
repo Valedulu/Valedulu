@@ -9,13 +9,13 @@
 
 ---
 
-## 🌿 About me
+## About me
 
 Forest Engineer transitioning into green data science, combining a background in natural resource management with data skills to tackle real environmental challenges. Passionate about urban forestry, biodiversity, and using data to drive sustainable decisions. Currently completing my MSc in Green Data Science at ISA – Instituto Superior de Agronomia, Lisbon.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages & Databases**
 
@@ -61,7 +61,7 @@ Forest Engineer transitioning into green data science, combining a background in
 
 ---
 
-## 🎓 Education
+## Education
 
 <p><strong>MSc Green Data Science</strong> &nbsp;·&nbsp; ISA – Instituto Superior de Agronomia, Lisbon &nbsp;·&nbsp; <em>in progress</em><br>
 <sub>Python · R · SQL · Data Management · Machine Learning · Environmental Modelling</sub></p>
@@ -71,7 +71,7 @@ Forest Engineer transitioning into green data science, combining a background in
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Period | Role | Organisation |
 |--------|------|--------------|
@@ -80,7 +80,7 @@ Forest Engineer transitioning into green data science, combining a background in
 
 ---
 
-## 🗣 Languages
+## Languages
 
 🇵🇹 **Portuguese** — Native &nbsp;&nbsp; 🇬🇧 **English** — Fluent
 
