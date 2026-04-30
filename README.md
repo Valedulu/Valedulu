@@ -1,77 +1,90 @@
-<div align="center">
-
 ![Banner](https://raw.githubusercontent.com/Valedulu/Valedulu/main/banner.svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Vale-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-do-vale-5640a5267)
-[![ISA](https://img.shields.io/badge/ISA-Green_Data_Science-2ea043?style=flat&logo=leaf&logoColor=white)](https://www.isa.ulisboa.pt)
-
-</div>
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=500&size=18&pause=1000&color=52B788&center=true&vCenter=true&width=600&lines=Forest+Engineer+%2B+Green+Data+Science;Python+%7C+R+%7C+SQL+%7C+GIS;Turning+forest+data+into+impact;Modelling+biodiversity+%26+urban+ecosystems;Open+to+sustainability+opportunities+%F0%9F%8C%BF" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🌿 About me
+## About
 
 Forest Engineer transitioning into green data science, combining a background in natural resource management with data skills to tackle real environmental challenges. Passionate about urban forestry, biodiversity, and using data to drive sustainable decisions. Currently completing my MSc in Green Data Science at ISA – Instituto Superior de Agronomia, Lisbon.
 
----
+## Tech Stack
 
-## 🛠 Tech Stack
+<p align="center">
+  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mariadb.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://dbeaver.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="50"/></a>
+</p>
+<p align="center">
+  <a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.r-project.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://qgis.org"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" height="50"/></a>
+</p>
 
-<div align="center">
+## Education
 
-**Languages & Databases**
+<p><strong>MSc Green Data Science</strong> &nbsp;·&nbsp; ISA – Instituto Superior de Agronomia, Lisbon &nbsp;·&nbsp; <em>in progress</em><br>
+<sub>Python · R · SQL · Data Management · Machine Learning · Environmental Modelling</sub></p>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
-[![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+<p><strong>BSc Forest Engineering &amp; Natural Resources</strong> &nbsp;·&nbsp; ISA – Instituto Superior de Agronomia, Lisbon &nbsp;·&nbsp; <em>2020–2024</em><br>
+<sub>Ecology · Arboriculture · Forest Management · Nematology · GIS · Fire Behaviour · Natural Resource Economics</sub></p>
 
-**Python Libraries**
-
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-
-**Tools & Environments**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io)
-[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org)
-
-</div>
-
----
-
-## 🎓 Education
-
-**MSc Green Data Science** · ISA – Instituto Superior de Agronomia, Lisbon · *In progress*
-`Python` `R` `SQL` `Data Management` `Machine Learning` `Environmental Modelling`
-
-**BSc Forest Engineering & Natural Resources** · ISA – Instituto Superior de Agronomia, Lisbon · *2020–2024*
-`Ecology` `Arboriculture` `Forest Management` `Nematology` `GIS` `Fire Behaviour` `Natural Resource Economics`
-
----
-
-## 💼 Experience
+## Experience
 
 | Period | Role | Organisation |
 |--------|------|--------------|
 | Dec 2024 – Oct 2025 | Environmental Internship — Urban Forestry & Arboriculture | Câmara Municipal de Lisboa |
 | Dec 2023 – Mar 2024 | Research Internship — Nematode Extraction Protocols | INIAV |
 
----
-
-## 🗣 Languages
+## Languages
 
 🇵🇹 **Portuguese** — Native &nbsp;&nbsp; 🇬🇧 **English** — Fluent
 
 ---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Valedulu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" alt="Luis's GitHub stats"/>
-</div>rue&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" alt="Luis's GitHub stats"/>
-</div>
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  <sub>Open to opportunities, collaborations, or just a chat</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:luishsmvale@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/luis-do-vale-5640a5267" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Valedulu" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  </a>
+</p>
