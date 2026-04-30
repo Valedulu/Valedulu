@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Valedulu/Valedulu/main/Assets/banner.svg)
+![Banner](https://raw.githubusercontent.com/Valedulu/Valedulu/main/Banner.png)
 
 <!-- Typing animation -->
 <p align="center">
