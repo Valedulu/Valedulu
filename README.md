@@ -1,12 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Valedulu/Valedulu/main/Banner.png)
-
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=500&size=18&pause=1000&color=52B788&center=true&vCenter=true&width=600&lines=Forest+Engineer+%2B+Green+Data+Science;Python+%7C+R+%7C+SQL+%7C+GIS;Turning+forest+data+into+impact;Modelling+biodiversity+%26+urban+ecosystems;Open+to+sustainability+opportunities+%F0%9F%8C%BF" alt="Typing SVG" />
-  </a>
-</p>
-
+!
 ---
 
 ## About me
